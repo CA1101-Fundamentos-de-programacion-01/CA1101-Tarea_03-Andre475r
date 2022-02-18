@@ -1,1 +1,1 @@
-print(repetir_cadena)(3, "I")
+print(repetir_cadena)(3, "n")
