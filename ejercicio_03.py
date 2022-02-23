@@ -1,2 +1,2 @@
-print(repetir_cadena)("n"):
-  print(n*3)
+def repetir_cadena("n"):
+  print(3*n)
