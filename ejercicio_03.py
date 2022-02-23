@@ -1,3 +1,3 @@
 
-def repetir_cadena(3 , "n"):
+def repetir_cadena suma(3 , "n"):
   print("nnn")
